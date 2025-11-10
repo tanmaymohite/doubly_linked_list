@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762801384 source:d:\codeblock\double_sll\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
